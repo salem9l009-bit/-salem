@@ -2,7 +2,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>الإمبراطور الذهبي - سالم</title>
+<title>الإمبراطورالذهبي - سالم</title>
 <style>
 body{background:#0f0f0f;color:#FFD700;text-align:center;font-family:Arial;padding:30px 15px;margin:0}
 h1{color:#FFD700;font-size:32px}
